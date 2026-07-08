@@ -9,5 +9,6 @@ test('has title', async ({ page }) => {
 
   console.log(" ok done")
    console.log(" hello")
+    console.log(" new")
 });
 
